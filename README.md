@@ -49,11 +49,11 @@ implementations.
 
 ## ArrayList in Action
 
-To use a `List` in Java, I must choose a specific implementation - in this case,
-I will choose ArrayList. An **ArrayList** is a class that implements the `List`
-interface and supports the addition and removal of elements, unlike an array.
-To make use of the `List` data structure, we need to import it. The `List`
-interface and the `ArrayList` class both live in the `java.util` package:
+To use a `List` in Java, we must choose a specific implementation - in this case,
+we will choose an ArrayList. An **ArrayList** is a class that implements the
+`List` interface and supports the addition and removal of elements, unlike an
+array. To make use of the `List` data structure, we need to import it. The
+`List` interface and the `ArrayList` class both live in the `java.util` package:
 
 ```java
 import java.util.List;
@@ -113,7 +113,6 @@ public class ListExample {
 This `String` list will now only accept `String` objects and the compiler will
 be not accept any other values. We can also see that we can iterate through a
 `List` the same way we would iterate through an array.
-
 
 ### ArrayList Constructors
 
