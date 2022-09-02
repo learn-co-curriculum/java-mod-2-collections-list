@@ -8,7 +8,7 @@
 
 ## List in Java
 
-`List` is an `interface` in Java that implements the `Collection` interface and
+`List` is an interface in Java that implements the `Collection` interface and
 provides a way to store an ordered collection. A list is something that has
 certain capabilities, but Java does not provide a base class for lists. In
 other words, there is no "default" implementation of a "list" functionality.
