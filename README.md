@@ -168,6 +168,3 @@ Here are the key methods of the `ArrayList` class:
 | `contains(Type value)`       | boolean                                      | Checks to see if a list contains a specific item    |
 | `isEmpty()`                  | boolean                                      | Checks to see if a list is empty or has a size of 0 |
 
-## References
-
-[List Interface Java Docs](https://docs.oracle.com/en/java/javase/12/docs/api/java.base/java/util/List.html)
