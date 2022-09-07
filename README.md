@@ -157,14 +157,14 @@ public class ListExample {
 
 Here are the key methods of the `ArrayList` class:
 
-| Method                       | Return Type                                  | Description                                         |
-|------------------------------|----------------------------------------------|-----------------------------------------------------|
-| `add(Type value)`            | boolean                                      | Adds an item to a list                              |
-| `get(int index)`             | element at the given index                   | Gets a certain item from a list based on its index  |
-| `set(int index, Type value)` | element previously stored at the given index | Updates an item from a list                         |
-| `remove(int index)`          | element that is removed at the given index   | Removes an item from a list                         |
-| `clear()`                    | void                                         | Removes all items from a list                       |
-| `size()`                     | int                                          | Gets the current size of the list                   |
-| `contains(Type value)`       | boolean                                      | Checks to see if a list contains a specific item    |
-| `isEmpty()`                  | boolean                                      | Checks to see if a list is empty or has a size of 0 |
+| Method                         | Return Type                                  | Description                                         |
+|--------------------------------|----------------------------------------------|-----------------------------------------------------|
+| `add(Element item)`            | boolean                                      | Adds an item to a list                              |
+| `get(int index)`               | element at the given index                   | Gets a certain item from a list based on its index  |
+| `set(int index, Element item)` | element previously stored at the given index | Updates an item from a list                         |
+| `remove(int index)`            | element that is removed at the given index   | Removes an item from a list                         |
+| `clear()`                      | void                                         | Removes all items from a list                       |
+| `size()`                       | int                                          | Gets the current size of the list                   |
+| `contains(Element item)`       | boolean                                      | Checks to see if a list contains a specific item    |
+| `isEmpty()`                    | boolean                                      | Checks to see if a list is empty or has a size of 0 |
 
